@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Improving Stock Price Prediction with GAN-Based Data Augmentation](http://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/download/10740/pdf) | IJAIDM | `GAN`     | [PyTorch(Author)]()   |  ``  |
 
 
 
