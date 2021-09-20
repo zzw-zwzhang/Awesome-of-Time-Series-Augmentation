@@ -117,7 +117,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Related Papers
-- [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
+- [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf), 2014 arXiv
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf), 2016 ICLR
 - [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf), 2017 arXiv
 - [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf), 2017 NeurIPS
