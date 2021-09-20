@@ -31,7 +31,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | ``     |
+| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
 | Explanation |  |  |  |  |  |  | other types |
 
