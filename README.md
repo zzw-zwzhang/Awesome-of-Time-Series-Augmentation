@@ -105,7 +105,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Surveys
-- []()
+- [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf), 2021 arXiv
 
 
 
