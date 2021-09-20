@@ -117,3 +117,4 @@ Please feel free to pull requests or open an issue to add papers.
 ## Related Papers
 - [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf)
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf), 2016 ICLR
+- [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf), 2020 arXiv
