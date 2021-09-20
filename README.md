@@ -73,7 +73,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v5.pdf) | AAAI | `GAN`     | [PyTorch(Author)](https://github.com/LantaoYu/SeqGAN)   |  `1.9k`  |
 
 
 
