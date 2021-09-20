@@ -107,4 +107,4 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Blogs
-- []()
+- [面向深度学习的时间序列数据扩充研究综述](https://zhuanlan.zhihu.com/p/157961218)
