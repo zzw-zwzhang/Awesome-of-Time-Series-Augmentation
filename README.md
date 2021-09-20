@@ -31,9 +31,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | ``          | ``           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `T`          | `GAN`           | ``                   | ``                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation |  |  |  |  |  |  | other types |
+| Explanation | Traditional method | GAN-based method |  |  |  |  | other types |
 
 
 
@@ -81,7 +81,10 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://halshs.archives-ouvertes.fr/halshs-01357973/document) | ECML-W | ``     | [PyTorch(Author)]()   |  ``  |
+| []() |  | ``     | [PyTorch(Author)]()   |  ``  |
+
+
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
