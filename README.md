@@ -111,6 +111,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Blogs
 - [面向深度学习的时间序列数据扩充研究综述](https://zhuanlan.zhihu.com/p/157961218)
+- [GAN在自然语言处理方面有哪些有趣的文章和应用？](https://www.zhihu.com/question/54463527)
 
 
 
