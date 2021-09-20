@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  `2`  |
 
 
 
