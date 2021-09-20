@@ -81,7 +81,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://halshs.archives-ouvertes.fr/halshs-01357973/document) | ECML-W | ``     | [PyTorch(Author)]()   |  ``  |
+| [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://halshs.archives-ouvertes.fr/halshs-01357973/document) | ECML-W | `T`     | [PyTorch(Author)]()   |  ``  |
 | []() |  | ``     | [PyTorch(Author)]()   |  ``  |
 
 
