@@ -127,5 +127,6 @@ Please feel free to pull requests or open an issue to add papers.
 - [Multi-marginal Wasserstein GAN](https://proceedings.neurips.cc/paper/2019/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf), 2019 NeurIPS
 
 ### Language
+- [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), 2016 ICML
 - [Generating Text via Adversarial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf), 2016 NIPS-W
 - [GANS for Sequences of Discrete Elementswith the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051.pdf), 2016 NIPS-W
