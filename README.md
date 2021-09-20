@@ -130,3 +130,4 @@ Please feel free to pull requests or open an issue to add papers.
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), 2016 ICML
 - [Generating Text via Adversarial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf), 2016 NIPS-W
 - [GANS for Sequences of Discrete Elementswith the Gumbel-softmax Distribution](https://arxiv.org/pdf/1611.04051.pdf), 2016 NIPS-W
+- [Adver-sarial Learning for Neural Dialogue Generation](https://arxiv.org/pdf/1701.06547.pdf), 2017 arXiv
