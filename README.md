@@ -113,6 +113,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [面向深度学习的时间序列数据扩充研究综述](https://zhuanlan.zhihu.com/p/157961218)
 - [GAN在自然语言处理方面有哪些有趣的文章和应用？](https://www.zhihu.com/question/54463527)
 - [生成式对抗网络GAN有哪些最新的发展，可以实际应用到哪些场景中？](https://www.zhihu.com/question/52602529)
+- [Role of RL in Text Generation by GAN(强化学习在生成对抗网络文本生成中扮演的角色)](https://zhuanlan.zhihu.com/p/29168803)
 
 
 
