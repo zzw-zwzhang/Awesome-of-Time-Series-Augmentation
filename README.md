@@ -41,7 +41,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  `2`  |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -49,7 +49,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -57,7 +57,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -65,7 +65,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -73,7 +73,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -81,12 +81,12 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |    |
+| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
 
 
 
@@ -94,11 +94,11 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | 2020.08.10 | ``     | -   |   |
-| []() | 2020.08.10 | ``     | -   |   |
-| []() | 2020.08.10 | ``     | -   |   |
-| []() | 2020.08.10 | ``     | -   |   |
-| []() | 2020.08.10 | ``     | -   |   |
+| []() | 2020.08.10 | ``     | -   |  ``  |
+| []() | 2020.08.10 | ``     | -   |  ``  |
+| []() | 2020.08.10 | ``     | -   |  ``  |
+| []() | 2020.08.10 | ``     | -   |  ``  |
+| []() | 2020.08.10 | ``     | -   |  ``  |
 
 
 ## Awesome Surveys
