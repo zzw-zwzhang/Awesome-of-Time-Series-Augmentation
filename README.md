@@ -97,7 +97,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
@@ -117,10 +117,13 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Related Papers
+### Vision
 - [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf), 2014 arXiv
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf), 2016 ICLR
 - [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf), 2017 arXiv
 - [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf), 2017 NeurIPS
 - [Multi-marginal Wasserstein GAN](https://proceedings.neurips.cc/paper/2019/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf), 2019 NeurIPS
 
-- [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf), 2020 arXiv
+### Language
+- [Generating Text via Adversarial Training](https://zhegan27.github.io/Papers/textGAN_nips2016_workshop.pdf), 2016 NIPS-W
+- 
