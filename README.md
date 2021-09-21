@@ -45,7 +45,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Improving Stock Price Prediction with GAN-Based Data Augmentation](http://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/download/10740/pdf) | IJAIDM | `GAN`     | [PyTorch(Author)]()   |  ``  |
 | [If You Like It, GAN It—Probabilistic Multivariate Times SeriesForecast with GAN](https://mdpi-res.com/d_attachment/engproc/engproc-05-00040/article_deploy/engproc-05-00040-v2.pdf) | EP | `GAN`     | [PyTorch(Author)]()   |  ``  |
-
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2020
@@ -53,7 +53,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Conditional GAN for timeseries generation](https://arxiv.org/pdf/2006.16477.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |  ``  |
-
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2019
@@ -61,7 +61,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | NeurIPS | `GAN`     | [PyTorch(Author)](https://github.com/jsyoon0823/TimeGAN)   |  `247`  |
-
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2018
@@ -69,6 +70,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling](https://arxiv.org/pdf/1811.08295.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |    |
+| [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633v2.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/ratschlab/RGAN)   |  '512'  |
 
 
 
@@ -77,7 +79,8 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v5.pdf) | AAAI | `GAN`     | [PyTorch(Author)](https://github.com/LantaoYu/SeqGAN)   |  `1.9k`  |
-
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2016
@@ -86,6 +89,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://aaltd16.irisa.fr/files/2016/08/AALTD16_paper_9.pdf) | ECML-W | `T`     | [PyTorch(Author)]()   |  ``  |
 | []() |  | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### Previous Venues
@@ -93,6 +97,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 
