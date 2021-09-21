@@ -97,7 +97,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| []() | NeurIPS | ``     | [PyTorch(Author)]()   |  ``  |
+| [Semi-Supervised Time Series Classification](http://alumni.cs.ucr.edu/~wli/publications/p215-Wei-long.pdf) | SIGKDD | ``     | [PyTorch(Author)]()   |  ``  |
 | []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
