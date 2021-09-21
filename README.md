@@ -118,7 +118,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Related Codebase
 ### Vision
-- []()
+- [DAGAN](https://github.com/AntreasAntoniou/DAGAN)
 
 
 
@@ -138,7 +138,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ### Vision-Augmentation
-- []()
+- [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf)
 
 
 ### Language-GAN
