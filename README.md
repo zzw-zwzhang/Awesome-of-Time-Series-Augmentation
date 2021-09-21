@@ -139,6 +139,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ### Vision-Augmentation
+- [A survey on Image Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf), 2019 JBD
 - [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf), 2017 arXiv
 
 
