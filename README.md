@@ -58,7 +58,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Generation of Synthetic Financial Time-Series with Generative Adversarial Networks](https://new.ingwb.com/binaries/content/assets/insights/themes/empowering-with-advanced-analytics/internship-theses-at-wbaa/generation-of-synthetic-financial-time-series-with-generative-adversarial-networks.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
 | [Medical Time-Series Data Generation using GenerativeAdversarial Networks](https://hal.inria.fr/hal-03158549/document) |  | `GAN`     | [PyTorch(Author)]()   |    |
 
-| [End-to-End Differentiable GANs for Text Generation](http://proceedings.mlr.press/v137/kumar20a/kumar20a.pdf) | NeurIPS-W | `GAN`     | [PyTorch(Author)]()   |    
+| [End-to-End Differentiable GANs for Text Generation](http://proceedings.mlr.press/v137/kumar20a/kumar20a.pdf) |  | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 
