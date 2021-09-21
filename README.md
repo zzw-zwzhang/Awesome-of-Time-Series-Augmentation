@@ -122,6 +122,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Data Augmentation GAN in PyTorch](https://github.com/amurthy1/dagan_torch)
 - [Data Augmentation optimized for GAN (DAG) - Official implementation](https://github.com/sutd-visual-computing-group/dag-gans)
 - [Data-Efficient GANs with DiffAugment](https://github.com/mit-han-lab/data-efficient-gans)
+- [StyleGAN2 with adaptive discriminator augmentation (ADA) — Official TensorFlow implementation](https://github.com/NVlabs/stylegan2-ada)
 
 
 
