@@ -43,8 +43,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Improving Stock Price Prediction with GAN-Based Data Augmentation](http://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/download/10740/pdf) | IJAIDM | `GAN`     | [PyTorch(Author)]()   |  ``  |
-| [If You Like It, GAN It—Probabilistic Multivariate Times SeriesForecast with GAN](https://mdpi-res.com/d_attachment/engproc/engproc-05-00040/article_deploy/engproc-05-00040-v2.pdf) | EP | `GAN`     | [PyTorch(Author)]()   |  ``  |
+| [Improving Stock Price Prediction with GAN-Based Data Augmentation](http://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/download/10740/pdf) | IJAIDM | `GAN`     | [PyTorch(Author)]()   |    |
+| [If You Like It, GAN It—Probabilistic Multivariate Times SeriesForecast with GAN](https://mdpi-res.com/d_attachment/engproc/engproc-05-00040/article_deploy/engproc-05-00040-v2.pdf) | EP | `GAN`     | [PyTorch(Author)]()   |    |
 | [PSA-GAN: Progressive Self Attention GANs for Synthetic Time Series](https://roseyu.com/time-series-workshop/submissions/2021/TSW-ICML2021_paper_17.pdf) | ICML-W | `GAN`     | [PyTorch(Author)]()   |    |
 
 
@@ -52,10 +52,11 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Conditional GAN for timeseries generation](https://arxiv.org/pdf/2006.16477.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |  ``  |
+| [Conditional GAN for timeseries generation](https://arxiv.org/pdf/2006.16477.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |    |
 | [Evaluation of Conditional Recurrent Generative Adversarial Networks for Multivariate Time-Series Augmentation](https://odr.chalmers.se/bitstream/20.500.12380/301113/1/Master%27s%20Thesis%20Anna%20Carlsson.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
 | [Data augmentation for time series: traditional vs generative models on capacitive proximity time series](https://dl.acm.org/doi/abs/10.1145/3389189.3392606) | PETRA | `GAN`     | [PyTorch(Author)]()   |    |
 | [Generation of Synthetic Financial Time-Series with Generative Adversarial Networks](https://new.ingwb.com/binaries/content/assets/insights/themes/empowering-with-advanced-analytics/internship-theses-at-wbaa/generation-of-synthetic-financial-time-series-with-generative-adversarial-networks.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
+| [Medical Time-Series Data Generation using GenerativeAdversarial Networks](https://hal.inria.fr/hal-03158549/document) |  | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2019
@@ -89,15 +90,15 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://aaltd16.irisa.fr/files/2016/08/AALTD16_paper_9.pdf) | ECML-W | `T`     | [PyTorch(Author)]()   |  ``  |
-| []() |  | ``     | [PyTorch(Author)]()   |  ``  |
+| [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://aaltd16.irisa.fr/files/2016/08/AALTD16_paper_9.pdf) | ECML-W | `T`     | [PyTorch(Author)]()   |    |
+| []() |  | ``     | [PyTorch(Author)]()   |    |
 
 
 ### Previous Venues
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Semi-Supervised Time Series Classification](http://alumni.cs.ucr.edu/~wli/publications/p215-Wei-long.pdf) | SIGKDD | ``     | [PyTorch(Author)]()   |  ``  |
+| [Semi-Supervised Time Series Classification](http://alumni.cs.ucr.edu/~wli/publications/p215-Wei-long.pdf) | SIGKDD |      | [PyTorch(Author)]()   |    |
 
 
 
@@ -105,9 +106,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-| [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 | ``     | -   |  ``  |
-| [SeismoGen:  Seismic Waveform Synthesis UsingGenerative Adversarial Networks](https://arxiv.org/pdf/1911.03966.pdf) | 2020.05.02 | ``     | -   |  ``  |
-| [Statistical analysis of Wasserstein GANswith applications to time seriesforecasting](https://stat.math.uni-heidelberg.de/paper/40_wgan_paper_complete.pdf) | 2020.11.05 | ``     | -   |  ``  |
+| [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 |      | -   |    |
+| [SeismoGen:  Seismic Waveform Synthesis UsingGenerative Adversarial Networks](https://arxiv.org/pdf/1911.03966.pdf) | 2020.05.02 |      | -   |    |
+| [Statistical analysis of Wasserstein GANswith applications to time seriesforecasting](https://stat.math.uni-heidelberg.de/paper/40_wgan_paper_complete.pdf) | 2020.11.05 |      | -   |    |
 
 
 
