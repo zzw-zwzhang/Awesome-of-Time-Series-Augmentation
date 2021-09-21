@@ -155,6 +155,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Time-Series
 - [TSGAN - TimeSeries - GAN](https://github.com/numancelik34/TimeSeries-GAN)
+- [semisupervised_timeseries_infogan](https://github.com/jeanjerome/semisupervised_timeseries_infogan)
 
 
 
