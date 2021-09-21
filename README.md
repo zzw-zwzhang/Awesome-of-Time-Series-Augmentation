@@ -118,6 +118,8 @@ Please feel free to pull requests or open an issue to add papers.
 - [Role of RL in Text Generation by GAN (强化学习在生成对抗网络文本生成中扮演的角色)](https://zhuanlan.zhihu.com/p/29168803)
 - [Data Augmentation 技术调研](https://zhuanlan.zhihu.com/p/40936977)
 
+- [Synthetic Time-Series Data: A GAN approach](https://towardsdatascience.com/synthetic-time-series-data-a-gan-approach-869a984f2239)
+
 
 ## Awesome Videos
 - [ExperienceAI: GAN for Time Series Data Augmentation in Astronomy - Pavlos Protopapas, Harvard U](https://www.youtube.com/watch?v=GpkKwzN45f4)
