@@ -115,6 +115,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Surveys
 - [Time Series Data Augmentation for Deep Learning: A Survey](https://arxiv.org/pdf/2002.12478.pdf), 2021 arXiv
+- [An empirical survey of data augmentation for time series classification with neural networks](https://arxiv.org/pdf/2007.15951.pdf), 2021 arXiv
 
 
 
