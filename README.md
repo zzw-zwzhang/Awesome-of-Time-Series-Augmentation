@@ -44,6 +44,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Improving Stock Price Prediction with GAN-Based Data Augmentation](http://ejournal.uin-suska.ac.id/index.php/IJAIDM/article/download/10740/pdf) | IJAIDM | `GAN`     | [PyTorch(Author)]()   |  ``  |
+| [If You Like It, GAN It—Probabilistic Multivariate Times SeriesForecast with GAN](https://mdpi-res.com/d_attachment/engproc/engproc-05-00040/article_deploy/engproc-05-00040-v2.pdf) | EP | `GAN`     | [PyTorch(Author)]()   |  ``  |
 
 
 
