@@ -152,6 +152,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [A survey on Image Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf), 2019 JBD
 - [GAN Augmentation: Augmenting Training Datausing Generative Adversarial Networks](https://arxiv.org/pdf/1810.10863.pdf), 2018 arXiv
 - [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf), 2017 arXiv
+- [The Effectiveness of Data Augmentation in Image Classification using Deep Learning](https://arxiv.org/pdf/1712.04621.pdf), 2017 arXiv
 
 
 ### Vision-Translation
