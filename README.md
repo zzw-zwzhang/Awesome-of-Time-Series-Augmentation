@@ -142,6 +142,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Vision-Augmentation
 - [Differentiable Augmentation for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf), 2020 NeurIPS
+- [Training Generative Adversarial Networks with Limited Data](https://arxiv.org/pdf/2006.06676v2.pdf), 2020 NeurIPS
 - [Effective Data Augmentation with Multi-Domain Learning GANs](https://ojs.aaai.org/index.php/AAAI/article/download/6131/5987), 2020 AAAI
 - [On Data Augmentation for GAN Training](https://arxiv.org/pdf/2006.05338.pdf), 2020 TIP
 - [Progressive Augmentation of GANs](https://arxiv.org/pdf/1901.10422.pdf), 2019 NeurIPS
