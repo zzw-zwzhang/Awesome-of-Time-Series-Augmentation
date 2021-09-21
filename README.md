@@ -132,6 +132,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Synthetic Time-Series Data: A GAN approach](https://towardsdatascience.com/synthetic-time-series-data-a-gan-approach-869a984f2239)
 - [Time Series Forecasting with Recurrent Neural Networks](https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/)
+- [Generating Synthetic Sequential Data using GANs](https://pub.towardsai.net/generating-synthetic-sequential-data-using-gans-a1d67a7752ac)
 
 
 ## Awesome Videos
