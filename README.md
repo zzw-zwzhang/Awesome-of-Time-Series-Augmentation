@@ -62,7 +62,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | NeurIPS | `GAN`     | [PyTorch(Author)](https://github.com/jsyoon0823/TimeGAN)   |  `247`  |
 | [E2GAN: End-to-End Generative Adversarial Networkfor Multivariate Time Series Imputation](https://www.ijcai.org/proceedings/2019/0429.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/Luoyonghong/E2EGAN)   |  `53`  |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
+| [Enriching Financial Datasets with GenerativeAdversarial Networks](https://repository.tudelft.nl/islandora/object/uuid:51d69925-fb7b-4e82-9ba6-f8295f96705c/datastream/OBJ/download) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2018
