@@ -76,7 +76,6 @@ Please feel free to pull requests or open an issue to add papers.
 | [T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling](https://arxiv.org/pdf/1811.08295.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |    |
 | [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633v2.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/ratschlab/RGAN)   |  `512`  |
 | [Generative Adversarial Network for Synthetic TimeSeries Data Generation in Smart Grids](https://www.osti.gov/servlets/purl/1607585) | SC | `GAN`     | [PyTorch(Author)]()   |    |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2017
@@ -84,8 +83,6 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v5.pdf) | AAAI | `GAN`     | [PyTorch(Author)](https://github.com/LantaoYu/SeqGAN)   |  `1.9k`  |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2016
@@ -94,7 +91,6 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Data Augmentation for Time Series Classification using Convolutional Neural Networks](https://aaltd16.irisa.fr/files/2016/08/AALTD16_paper_9.pdf) | ECML-W | `T`     | [PyTorch(Author)]()   |  ``  |
 | []() |  | ``     | [PyTorch(Author)]()   |  ``  |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### Previous Venues
@@ -102,7 +98,6 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Semi-Supervised Time Series Classification](http://alumni.cs.ucr.edu/~wli/publications/p215-Wei-long.pdf) | SIGKDD | ``     | [PyTorch(Author)]()   |  ``  |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 
@@ -112,9 +107,8 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 | ``     | -   |  ``  |
 | [SeismoGen:  Seismic Waveform Synthesis UsingGenerative Adversarial Networks](https://arxiv.org/pdf/1911.03966.pdf) | 2020.05.02 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [Statistical analysis of Wasserstein GANswith applications to time seriesforecasting](https://stat.math.uni-heidelberg.de/paper/40_wgan_paper_complete.pdf) | 2020.11.05 | ``     | -   |  ``  |
+
 
 
 ## Awesome Surveys
@@ -139,7 +133,6 @@ Please feel free to pull requests or open an issue to add papers.
 - [ExperienceAI: GAN for Time Series Data Augmentation in Astronomy - Pavlos Protopapas, Harvard U](https://www.youtube.com/watch?v=GpkKwzN45f4)
 - [Generation of Synthetic Financial Time Series with GANs - Casper Hogenboom](https://www.youtube.com/watch?v=ROLugVqjf00)
 - [TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks](https://www.youtube.com/watch?v=jIDj2dhU99k)
-- []()
 
 
 
