@@ -126,6 +126,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Data Augmentation 技术调研](https://zhuanlan.zhihu.com/p/40936977)
 
 - [Synthetic Time-Series Data: A GAN approach](https://towardsdatascience.com/synthetic-time-series-data-a-gan-approach-869a984f2239)
+- [Time Series Forecasting with Recurrent Neural Networks](https://blogs.rstudio.com/ai/posts/2017-12-20-time-series-forecasting-with-recurrent-neural-networks/)
 
 
 ## Awesome Videos
