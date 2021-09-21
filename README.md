@@ -54,6 +54,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Conditional GAN for timeseries generation](https://arxiv.org/pdf/2006.16477.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |  ``  |
 | [Evaluation of Conditional Recurrent Generative Adversarial Networks for Multivariate Time-Series Augmentation](https://odr.chalmers.se/bitstream/20.500.12380/301113/1/Master%27s%20Thesis%20Anna%20Carlsson.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
+| [Data augmentation for time series: traditional vs generative models on capacitive proximity time series](https://dl.acm.org/doi/abs/10.1145/3389189.3392606) | PETRA | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2019
@@ -63,6 +64,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | NeurIPS | `GAN`     | [PyTorch(Author)](https://github.com/jsyoon0823/TimeGAN)   |  `247`  |
 | [E2GAN: End-to-End Generative Adversarial Networkfor Multivariate Time Series Imputation](https://www.ijcai.org/proceedings/2019/0429.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/Luoyonghong/E2EGAN)   |  `53`  |
 | [Enriching Financial Datasets with GenerativeAdversarial Networks](https://repository.tudelft.nl/islandora/object/uuid:51d69925-fb7b-4e82-9ba6-f8295f96705c/datastream/OBJ/download) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2018
@@ -73,6 +75,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling](https://arxiv.org/pdf/1811.08295.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |    |
 | [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633v2.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/ratschlab/RGAN)   |  `512`  |
 | [Generative Adversarial Network for Synthetic TimeSeries Data Generation in Smart Grids](https://www.osti.gov/servlets/purl/1607585) | SC | `GAN`     | [PyTorch(Author)]()   |    |
+| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2017
