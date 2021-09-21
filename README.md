@@ -98,7 +98,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 | ``     | -   |  ``  |
-| []() | 2020.08.10 | ``     | -   |  ``  |
+| [SeismoGen:  Seismic Waveform Synthesis UsingGenerative Adversarial Networks](https://arxiv.org/pdf/1911.03966.pdf) | 2020.05.02 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
 | []() | 2020.08.10 | ``     | -   |  ``  |
