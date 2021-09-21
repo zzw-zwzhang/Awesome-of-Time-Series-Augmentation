@@ -121,6 +121,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [DAGAN](https://github.com/AntreasAntoniou/DAGAN)
 - [Data Augmentation GAN in PyTorch](https://github.com/amurthy1/dagan_torch)
 - [Data Augmentation optimized for GAN (DAG) - Official implementation](https://github.com/sutd-visual-computing-group/dag-gans)
+- [Data-Efficient GANs with DiffAugment](https://github.com/mit-han-lab/data-efficient-gans)
 
 
 
@@ -140,6 +141,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ### Vision-Augmentation
+- [Differentiable Augmentation for Data-Efficient GAN Training](https://arxiv.org/pdf/2006.10738.pdf), 2020 NeurIPS
 - [Effective Data Augmentation with Multi-Domain Learning GANs](https://ojs.aaai.org/index.php/AAAI/article/download/6131/5987), 2020 AAAI
 - [On Data Augmentation for GAN Training](https://arxiv.org/pdf/2006.05338.pdf), 2020 TIP
 - [Progressive Augmentation of GANs](https://arxiv.org/pdf/1901.10422.pdf), 2019 NeurIPS
