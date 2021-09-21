@@ -142,6 +142,7 @@ Please feel free to pull requests or open an issue to add papers.
 ### Vision-Augmentation
 - [Effective Data Augmentation with Multi-Domain Learning GANs](https://ojs.aaai.org/index.php/AAAI/article/download/6131/5987), 2020 AAAI
 - [On Data Augmentation for GAN Training](https://arxiv.org/pdf/2006.05338.pdf), 2020 TIP
+- [Progressive Augmentation of GANs](https://arxiv.org/pdf/1901.10422.pdf), 2019 NeurIPS
 - [A survey on Image Data Augmentation for Deep Learning](https://journalofbigdata.springeropen.com/track/pdf/10.1186/s40537-019-0197-0.pdf), 2019 JBD
 - [GAN Augmentation: Augmenting Training Datausing Generative Adversarial Networks](https://arxiv.org/pdf/1810.10863.pdf), 2018 arXiv
 - [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf), 2017 arXiv
