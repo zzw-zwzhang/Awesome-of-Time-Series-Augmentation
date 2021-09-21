@@ -149,6 +149,11 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 
+### Time-Series
+- [TSGAN - TimeSeries - GAN](https://github.com/numancelik34/TimeSeries-GAN)
+
+
+
 
 ## Related Papers
 ### Vision-GAN
