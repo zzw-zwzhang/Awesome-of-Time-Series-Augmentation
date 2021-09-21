@@ -28,6 +28,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 - [Awesome Blogs](#awesome-blogs)
 
+- [Awesome Videos](#awesome-videos)
+
 
 ### Type of Long-tailed Recognition
 
@@ -115,6 +117,10 @@ Please feel free to pull requests or open an issue to add papers.
 - [生成式对抗网络GAN有哪些最新的发展，可以实际应用到哪些场景中？](https://www.zhihu.com/question/52602529)
 - [Role of RL in Text Generation by GAN (强化学习在生成对抗网络文本生成中扮演的角色)](https://zhuanlan.zhihu.com/p/29168803)
 - [Data Augmentation 技术调研](https://zhuanlan.zhihu.com/p/40936977)
+
+
+## Awesome Videos
+- [ExperienceAI: GAN for Time Series Data Augmentation in Astronomy - Pavlos Protopapas, Harvard U](https://www.youtube.com/watch?v=GpkKwzN45f4)
 
 
 ## Related Codebase
