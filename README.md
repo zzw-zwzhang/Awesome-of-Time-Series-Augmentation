@@ -153,6 +153,10 @@ Please feel free to pull requests or open an issue to add papers.
 - [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf), 2017 arXiv
 
 
+### Vision-Translation
+- [AugGAN: Cross Domain Adaptation withGAN-based Data Augmentation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.pdf), 2018 ECCV
+
+
 ### Language-GAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/pdf/1610.01945.pdf), 2016
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), 2016 ICML
