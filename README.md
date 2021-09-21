@@ -138,7 +138,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ### Vision-Augmentation
-- [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf)
+- [Data Augmentation Generative Adversarial Networks](https://arxiv.org/pdf/1711.04340.pdf), 2017 arXiv
 
 
 ### Language-GAN
