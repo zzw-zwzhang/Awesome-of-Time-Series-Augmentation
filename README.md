@@ -121,6 +121,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Awesome Videos
 - [ExperienceAI: GAN for Time Series Data Augmentation in Astronomy - Pavlos Protopapas, Harvard U](https://www.youtube.com/watch?v=GpkKwzN45f4)
+- [Generation of Synthetic Financial Time Series with GANs - Casper Hogenboom](https://www.youtube.com/watch?v=ROLugVqjf00)
 
 
 ## Related Codebase
