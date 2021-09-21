@@ -65,7 +65,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/file/c9efe5f26cd17ba6216bbe2a7d26d490-Paper.pdf) | NeurIPS | `GAN`     | [PyTorch(Author)](https://github.com/jsyoon0823/TimeGAN)   |  `247`  |
 | [E2GAN: End-to-End Generative Adversarial Networkfor Multivariate Time Series Imputation](https://www.ijcai.org/proceedings/2019/0429.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/Luoyonghong/E2EGAN)   |  `53`  |
 | [Enriching Financial Datasets with GenerativeAdversarial Networks](https://repository.tudelft.nl/islandora/object/uuid:51d69925-fb7b-4e82-9ba6-f8295f96705c/datastream/OBJ/download) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
-| [MTSS-GAN: Multivariate Time Series SimulationGenerativeAdversarial Networks](https://poseidon01.ssrn.com/delivery.php?ID=190081025071014115090001114020068121042037029042091050024117026086002126092082011075126060062111031022046118103087124103012097049015010026004066090112100092069093108023077048126104005021087075100006093114023108021097118121027015020117003123112123122026&EXT=pdf&INDEX=TRUE) | / | `GAN`     | [PyTorch(Author)]()   |    |
+| [MTSS-GAN: Multivariate Time Series SimulationGenerativeAdversarial Networks](https://poseidon01.ssrn.com/delivery.php?ID=190081025071014115090001114020068121042037029042091050024117026086002126092082011075126060062111031022046118103087124103012097049015010026004066090112100092069093108023077048126104005021087075100006093114023108021097118121027015020117003123112123122026&EXT=pdf&INDEX=TRUE) | SSRN | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2018
