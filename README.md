@@ -55,7 +55,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Conditional GAN for timeseries generation](https://arxiv.org/pdf/2006.16477.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |  ``  |
 | [Evaluation of Conditional Recurrent Generative Adversarial Networks for Multivariate Time-Series Augmentation](https://odr.chalmers.se/bitstream/20.500.12380/301113/1/Master%27s%20Thesis%20Anna%20Carlsson.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
 | [Data augmentation for time series: traditional vs generative models on capacitive proximity time series](https://dl.acm.org/doi/abs/10.1145/3389189.3392606) | PETRA | `GAN`     | [PyTorch(Author)]()   |    |
-| []() | ICLR | `GAN`     | [PyTorch(Author)]()   |    |
+| [Generation of Synthetic Financial Time-Series with Generative Adversarial Networks](https://new.ingwb.com/binaries/content/assets/insights/themes/empowering-with-advanced-analytics/internship-theses-at-wbaa/generation-of-synthetic-financial-time-series-with-generative-adversarial-networks.pdf) | Thesis | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2019
