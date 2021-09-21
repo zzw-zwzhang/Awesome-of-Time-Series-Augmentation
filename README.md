@@ -33,9 +33,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Long-tailed Recognition
 
-| Type        | `T`          | `GAN`           | ``                   | ``                 | ``                  | ``              | `Other`     |
+| Type        | `T`          | `GAN`           | `L`                   | `V`                 | ``                  | ``              | `Other`     |
 |:----------- |:-------------:|:--------------:|:----------------------: |:---------------------:|:----------------------:|:-----------------:|:-----------:|
-| Explanation | Traditional method | GAN-based method |  |  |  |  | other types |
+| Explanation | Traditional method | GAN-based method | Language | Vision |  |  | other types |
 
 
 
