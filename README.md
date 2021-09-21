@@ -116,9 +116,19 @@ Please feel free to pull requests or open an issue to add papers.
 - [Role of RL in Text Generation by GAN (强化学习在生成对抗网络文本生成中扮演的角色)](https://zhuanlan.zhihu.com/p/29168803)
 
 
+## Related Codebase
+### Vision
+- []()
+
+
+
+### Language
+
+
+
 
 ## Related Papers
-### Vision
+### Vision-GAN
 - [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf), 2014 arXiv
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf), 2016 ICLR
 - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/pdf/1606.00709.pdf), 2016 NIPS
@@ -126,7 +136,12 @@ Please feel free to pull requests or open an issue to add papers.
 - [Improved Training of Wasserstein GANs](https://arxiv.org/pdf/1704.00028.pdf), 2017 NeurIPS
 - [Multi-marginal Wasserstein GAN](https://proceedings.neurips.cc/paper/2019/file/bdb106a0560c4e46ccc488ef010af787-Paper.pdf), 2019 NeurIPS
 
-### Language
+
+### Vision-Augmentation
+- []()
+
+
+### Language-GAN
 - [Connecting Generative Adversarial Networks and Actor-Critic Methods](https://arxiv.org/pdf/1610.01945.pdf), 2016
 - [Generative Adversarial Text to Image Synthesis](https://arxiv.org/pdf/1605.05396.pdf), 2016 ICML
 - [Professor Forcing: A New Algorithm for Training Recurrent Networks](https://arxiv.org/pdf/1610.09038.pdf), 2016 NIPS
