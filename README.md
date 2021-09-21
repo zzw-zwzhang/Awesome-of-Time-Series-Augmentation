@@ -71,7 +71,7 @@ Please feel free to pull requests or open an issue to add papers.
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [T-CGAN: Conditional Generative Adversarial Network for Data Augmentation in Noisy Time Series with Irregular Sampling](https://arxiv.org/pdf/1811.08295.pdf) | arXiv | `GAN`     | [PyTorch(Author)]()   |    |
 | [Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs](https://arxiv.org/pdf/1706.02633v2.pdf) | ICLR | `GAN`     | [PyTorch(Author)](https://github.com/ratschlab/RGAN)   |  `512`  |
-
+| [Generative Adversarial Network for Synthetic TimeSeries Data Generation in Smart Grids](https://www.osti.gov/servlets/purl/1607585) | SC | `GAN`     | [PyTorch(Author)]()   |    |
 
 
 ### 2017
