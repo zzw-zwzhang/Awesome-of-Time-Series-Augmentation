@@ -157,6 +157,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Vision-Translation
 - [Unpaired Image-to-Image Translationusing Cycle-Consistent Adversarial Networks](https://arxiv.org/pdf/1703.10593.pdf), 2017 ICCV
+- [Image-Image Domain Adaptation with Preserved Self-Similarity andDomain-Dissimilarity for Person Re-identification](https://arxiv.org/pdf/1711.07027.pdf), 2018 CVPR
 - [AugGAN: Cross Domain Adaptation withGAN-based Data Augmentation](https://openaccess.thecvf.com/content_ECCV_2018/papers/Sheng-Wei_Huang_AugGAN_Cross_Domain_ECCV_2018_paper.pdf), 2018 ECCV
 
 
