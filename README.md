@@ -120,6 +120,7 @@ Please feel free to pull requests or open an issue to add papers.
 ### Vision
 - [DAGAN](https://github.com/AntreasAntoniou/DAGAN)
 - [Data Augmentation GAN in PyTorch](https://github.com/amurthy1/dagan_torch)
+- [Data Augmentation optimized for GAN (DAG) - Official implementation](https://github.com/sutd-visual-computing-group/dag-gans)
 
 
 
