@@ -148,6 +148,11 @@ Please feel free to pull requests or open an issue to add papers.
 - [Data-Efficient GANs with DiffAugment](https://github.com/mit-han-lab/data-efficient-gans)
 - [StyleGAN2 with adaptive discriminator augmentation (ADA) — Official TensorFlow implementation](https://github.com/NVlabs/stylegan2-ada)
 - [Semantic preserving image-to-image translation](https://github.com/yuanmengzhixing/AugGAN-Cross-Domain-Adaptation-with-GAN-based-DataAugmentation)
+- [Resources and Implementations of Generative Adversarial Nets: GAN, DCGAN, WGAN, CGAN, InfoGAN](https://github.com/YadiraF/GAN)
+- [InfoGAN-TensorFlow](https://github.com/openai/InfoGAN)
+- [InfoGAN-PyTorch](https://github.com/Natsu6767/InfoGAN-PyTorch)
+- [infoGAN-pytorch](https://github.com/pianomania/infoGAN-pytorch)
+- [Progressive InfoGAN](https://github.com/jonasz/progressive_infogan)
 
 
 
@@ -167,6 +172,8 @@ Please feel free to pull requests or open an issue to add papers.
 ## Related Papers
 ### Vision-GAN
 - [Conditional Generative Adversarial Nets](https://arxiv.org/pdf/1411.1784.pdf), 2014 arXiv
+- [InfoGAN: Interpretable Representation Learning byInformation Maximizing Generative Adversarial Nets](https://arxiv.org/pdf/1606.03657.pdf), 2016 NIPS
+- [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/pdf/1710.10196.pdf), 2018 ICLR
 - [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf), 2016 ICLR
 - [f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization](https://arxiv.org/pdf/1606.00709.pdf), 2016 NIPS
 - [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf), 2017 arXiv
