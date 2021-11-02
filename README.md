@@ -100,6 +100,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 | [Semi-Supervised Time Series Classification](http://alumni.cs.ucr.edu/~wli/publications/p215-Wei-long.pdf) | SIGKDD |      | [PyTorch(Author)]()   |    |
+| [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://arxiv.org/pdf/1506.03099.pdf) | NIPS | ``     | [PyTorch(Author)]()   |    |
 
 
 
