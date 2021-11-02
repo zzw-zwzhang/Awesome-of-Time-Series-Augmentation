@@ -165,6 +165,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [TSGAN - TimeSeries - GAN](https://github.com/numancelik34/TimeSeries-GAN)
 - [semisupervised_timeseries_infogan](https://github.com/jeanjerome/semisupervised_timeseries_infogan)
 - [Generative Adversarial Nets for Synthetic Time Series Data](https://github.com/stefan-jansen/synthetic-data-for-finance)
+- [Generative-Adversarial-Networks-for-financial-time-series-generation](https://github.com/tkota0726/Generative-Adversarial-Networks-for-financial-time-series-generation)
 
 
 
