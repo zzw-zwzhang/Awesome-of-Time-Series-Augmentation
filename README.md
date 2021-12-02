@@ -7,7 +7,7 @@ A curated list of time series augmentation and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-09-20
+### :high_brightness: Updated 2021-10-20
 
 
 ## Table of Contents
