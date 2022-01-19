@@ -7,7 +7,7 @@ A curated list of time series augmentation and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2021-10-20
+### :high_brightness: Updated 2022-01-20
 
 
 ## Table of Contents
@@ -111,6 +111,7 @@ Please feel free to pull requests or open an issue to add papers.
 | [Tabular GANs for Uneven Distribution](https://arxiv.org/pdf/2010.00638.pdf) | 2020.08.10 |      | -   |    |
 | [SeismoGen:  Seismic Waveform Synthesis UsingGenerative Adversarial Networks](https://arxiv.org/pdf/1911.03966.pdf) | 2020.05.02 |      | -   |    |
 | [Statistical analysis of Wasserstein GANswith applications to time seriesforecasting](https://stat.math.uni-heidelberg.de/paper/40_wgan_paper_complete.pdf) | 2020.11.05 |      | -   |    |
+| [Adaptive Weighting Scheme for Automatic Time-Series Data Augmentation](https://arxiv.org/pdf/2102.08310.pdf) | 2021.02.16 |      | -   |    |
 
 
 
